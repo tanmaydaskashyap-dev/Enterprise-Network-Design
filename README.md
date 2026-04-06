@@ -61,6 +61,14 @@ OSPF implementation
 ACL security
 DHCP server configuration
 
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
 📬 Contact
 
 If you have any questions or suggestions, feel free to connect!

@@ -1,5 +1,5 @@
 # Enterprise-Network-Design
-CCNA
+![Banner](screenshot/banner3.png)
 📡 Enterprise Network Design using Cisco Packet Tracer
 📌 Project Overview
 
